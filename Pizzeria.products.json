@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "60f7d2a8a7e8b3412cfa3001"
+  },
+  "type": "pizza",
+  "name": "Margherita",
+  "description": "Tomato, mozzarella, fresh basil",
+  "imageUrl": "https://example.com/margherita.jpg",
+  "price": 8.5,
+  "category": "classic"
+},
+{
+  "_id": {
+    "$oid": "60f7d2a8a7e8b3412cfa3002"
+  },
+  "type": "pizza",
+  "name": "Pepperoni",
+  "description": "Tomato, mozzarella, pepperoni",
+  "imageUrl": "https://example.com/pepperoni.jpg",
+  "price": 9.9,
+  "category": "meat lovers"
+},
+{
+  "_id": {
+    "$oid": "60f7d2a8a7e8b3412cfa3003"
+  },
+  "type": "burger",
+  "name": "Bacon Cheeseburger",
+  "description": "100% beef, cheddar, bacon",
+  "imageUrl": "https://example.com/bacon_cheese.jpg",
+  "price": 9.9
+},
+{
+  "_id": {
+    "$oid": "6836d05a974b2a7817eacf2e"
+  },
+  "type": "Drink",
+  "name": "Water",
+  "description": "Still water 0.5L",
+  "price": 1.5
+},
+{
+  "_id": {
+    "$oid": "6836d05a974b2a7817eacf2f"
+  },
+  "type": "Drink",
+  "name": "Orange Juice",
+  "description": "Natural orange juice",
+  "price": 3
+}]

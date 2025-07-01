@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6836d084974b2a7817eacf32"
+  },
+  "address": "Rambla Cataluña 32",
+  "postalCode": "08001",
+  "city": "Barcelona",
+  "province": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "6836d084974b2a7817eacf33"
+  },
+  "address": "Avenida Tetuan 45",
+  "postalCode": "28001",
+  "city": "Madrid",
+  "province": "Madrid"
+}]

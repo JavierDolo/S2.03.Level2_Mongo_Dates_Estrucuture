@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6836d199974b2a7817eacf3b"
+  },
+  "firstName": "Florentino",
+  "lastName": "Gómez",
+  "nationalId": "12345678A",
+  "phone": "692345678",
+  "role": "delivery",
+  "storeId": {
+    "$oid": "6836d084974b2a7817eacf32"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d199974b2a7817eacf3c"
+  },
+  "firstName": "Dani",
+  "lastName": "Martín",
+  "nationalId": "23456789B",
+  "phone": "611223344",
+  "role": "cook",
+  "storeId": {
+    "$oid": "6836d084974b2a7817eacf32"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d199974b2a7817eacf3d"
+  },
+  "firstName": "Alberto",
+  "lastName": "Ruiz",
+  "nationalId": "34567890C",
+  "phone": "622334455",
+  "role": "delivery",
+  "storeId": {
+    "$oid": "6836d084974b2a7817eacf33"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d199974b2a7817eacf3e"
+  },
+  "firstName": "Sara",
+  "lastName": "Vacas",
+  "nationalId": "45678901D",
+  "phone": "633445566",
+  "role": "cook",
+  "storeId": {
+    "$oid": "6836d084974b2a7817eacf33"
+  }
+}]

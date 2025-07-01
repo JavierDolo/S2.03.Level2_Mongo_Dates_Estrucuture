@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "60f7d2a8a7e8b3412cfa4001"
+  },
+  "customerId": {
+    "$oid": "6536c843974b2a7817eacf20"
+  },
+  "storeId": {
+    "$oid": "6836d084974b2a7817eacf32"
+  },
+  "orderDate": {
+    "$date": "2025-07-14T19:30:00.000Z"
+  },
+  "type": "delivery",
+  "items": [
+    {
+      "productId": {
+        "$oid": "60f7d2a8a7e8b3412cfa3001"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "60f7d2a8a7e8b3412cfa3004"
+      },
+      "quantity": 2
+    }
+  ],
+  "totalPrice": 12.7,
+  "note": "Leave it at the door, please..",
+  "deliveryPersonId": {
+    "$oid": "60f7d2a8a7e8b3412cfa2002"
+  },
+  "deliveredAt": {
+    "$date": "2025-07-14T20:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "60f7d2a8a7e8b3412cfa4002"
+  },
+  "customerId": {
+    "$oid": "6836c843974b2a7817eacf21"
+  },
+  "storeId": {
+    "$oid": "6836d084974b2a7817eacf32"
+  },
+  "orderDate": {
+    "$date": "2025-07-14T19:45:00.000Z"
+  },
+  "type": "pickup",
+  "items": [
+    {
+      "productId": {
+        "$oid": "60f7d2a8a7e8b3412cfa3002"
+      },
+      "quantity": 2
+    },
+    {
+      "productId": {
+        "$oid": "60f7d2a8a7e8b3412cfa3004"
+      },
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 21.8,
+  "note": "I'll be there in five minutes.."
+},
+{
+  "_id": {
+    "$oid": "60f7d2a8a7e8b3412cfa4003"
+  },
+  "customerId": {
+    "$oid": "6836c843974b2a7817eacf22"
+  },
+  "storeId": {
+    "$oid": "6836d084974b2a7817eacf33"
+  },
+  "orderDate": {
+    "$date": "2025-07-14T20:00:00.000Z"
+  },
+  "type": "delivery",
+  "items": [
+    {
+      "productId": {
+        "$oid": "60f7d2a8a7e8b3412cfa3003"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "60f7d2a8a7e8b3412cfa3004"
+      },
+      "quantity": 3
+    }
+  ],
+  "totalPrice": 12.9,
+  "note": "If you can call when you arrive.",
+  "deliveryPersonId": {
+    "$oid": "60f7d2a8a7e8b3412cfa2002"
+  },
+  "deliveredAt": {
+    "$date": "2025-07-14T20:30:00.000Z"
+  }
+}]
